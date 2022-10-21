@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmedrami boukef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedrami boukef" height="30" width="40" /></a>
-<a href="https://kaggle.com/ahmedrami boukef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedrami boukef" height="30" width="40" /></a>
-<a href="https://fb.com/rami boukef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rami boukef" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmedrami-boukef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedrami boukef" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ahmedramiboukef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedrami boukef" height="30" width="40" /></a>
+<a href="https://fb.com/rami-boukef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rami boukef" height="30" width="40" /></a>
 <a href="https://instagram.com/rami_boukef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rami_boukef" height="30" width="40" /></a>
 </p>
 
